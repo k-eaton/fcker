@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["katrina.eaton@gmail.com, Jessica.greben1+github2@gmail.com"]
 
   spec.summary       = %q{Like Faker, only with more profanity and Kanye West.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  # spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.homepage      = "http://fcker.info"
   spec.license       = "MIT"
 
