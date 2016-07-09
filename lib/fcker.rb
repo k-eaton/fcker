@@ -1,7 +1,5 @@
 require 'open-uri'
-
 require 'fcker/version'
-require 'fcker/paragraph'
 
 module Fcker
   # Your code goes here...
@@ -19,3 +17,4 @@ module Fcker
   end
 end
 
+require 'fcker/paragraph'
