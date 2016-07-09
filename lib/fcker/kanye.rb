@@ -24,8 +24,12 @@ module Fcker
 
       def paragraph
         para = Array.new(lorem.split(". "))
-        para.insert(rand(para.length), kanye_quote)
-        puts para.join(". ")
+        if para.length > 3
+          rand(1..3).times do
+            para.insert(rand(1..para.length), kanye_quote)
+            puts "#{para.join(". ")}."
+          end
+        end
       end
 
       def kanye_quote
