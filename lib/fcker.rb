@@ -18,3 +18,4 @@ module Fcker
 end
 
 require 'fcker/paragraph'
+require 'fcker/kanye'
