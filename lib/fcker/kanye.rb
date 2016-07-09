@@ -67,7 +67,7 @@ module Fcker
         "I ain’t no muthafuckin celebrity. I ain’t runnin’ for office. I ain’t kissin’ nobody’s muthafuckin babies. I drop your baby and you muthafuckin sue me and shit. - Kanye West",
         "I still think I am the greatest. - Kanye West",
         "I have no interest in working with anyone who is too important or too good or too traditional to take a call at 3am. - Kanye West",
-        "I won’t go into a big spiel about reincarnation, but the first time I was in the Gucci store in Chicago was the closest I’ve ever felt to home. - Kanye West")
+        "I won’t go into a big spiel about reincarnation, but the first time I was in the Gucci store in Chicago was the closest I’ve ever felt to home. - Kanye West",
 
         # Charlie Sheen,
         "I'm tired of pretending like I'm not bitching, a total … rock star from Mars, and people can't figure me out; they can't process me. I don't expect them to. You can't process me with a normal brain. - Charlie Sheen",
@@ -106,7 +106,7 @@ module Fcker
         "I have defeated this earthworm with my words. Imagine what I would have done with my fire breathing fists. - Charlie Sheen",
         "The only thing I'm addicted to is winning. This bootleg cult, arrogantly referred to as Alcoholics Anonymous, reports a 5 percent success rate. My success rate is 100 percent. - Charlie Sheen",
         "From my big beautiful warlock brain, welcome to 'Sheen's Korner' ... You're either in my corner, or you're with the trolls. - Charlie Sheen",
-        "You have the right to kill me, but you don't have the right to judge me. That's life. There's nobility in that. There's focus. It's genuine. It's crystal and it's pure and it's available to everybody, so just shut your traps and put down your McDonalds, your vaccines, your Us Weekly, your TMZ and the rest of it. - Charlie Sheen")
+        "You have the right to kill me, but you don't have the right to judge me. That's life. There's nobility in that. There's focus. It's genuine. It's crystal and it's pure and it's available to everybody, so just shut your traps and put down your McDonalds, your vaccines, your Us Weekly, your TMZ and the rest of it. - Charlie Sheen",
 
         # Dubya,
         "One of the great things about books is sometimes there are some fantastic pictures. - George W. Bush",
@@ -125,7 +125,7 @@ module Fcker
         "Reading is the basics for all learning. - George W. Bush",
         "This may sound a little West Texan to you, but I like it. When I'm talking about.. when I'm talking about myself, and when he's talking about myself, all of us are talking about me. - George W. Bush",
         "Too many good docs are getting out of the business. Too many OB/GYN's aren't able to practice their love with women all across the country. - George W. Bush",
-        "I've heard the call.  I believe God wants me to run for President. - George W. Bush")
+        "I've heard the call.  I believe God wants me to run for President. - George W. Bush",
 
         # Dan Quayle,
         "It’s time for the human race to enter the solar system. - Dan Quayle",
@@ -143,7 +143,7 @@ module Fcker
         "We don't want to go back to tomorrow, we want to move forward. - Dan Quayle",
         "We understand the importance of having the bondage between the parent and the child. - Dan Quayle",
         "I made a misstatement and I stand by all my misstatements. - Dan Quayle",
-        "I was known as the chief graverobber of my state. - Dan Quayle")
+        "I was known as the chief graverobber of my state. - Dan Quayle",
 
         # Yogi Berra,
         "When you come to a fork in the road, take it. - Yogi Berra",
@@ -156,7 +156,7 @@ module Fcker
         "We have deep depth. - Yogi Berra",
         "Even Napoleon had his Watergate. - Yogi Berra",
         "He hits from both sides of the plate. He’s amphibious. - Yogi Berra",
-        "I never said most of the things I said. - Yogi Berra")
+        "I never said most of the things I said. - Yogi Berra",
 
         # Miscellaneous
         "I'm not dumb. I just have a command of thoroughly useless information. - Bill Watterson",

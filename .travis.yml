@@ -1,5 +1,11 @@
 sudo: false
 language: ruby
+cache: bundler
 rvm:
   - 2.3.1
+matrix:
+ allow_failures:
 before_install: gem install bundler -v 1.12.5
+script: bundle exec rake test
+
+
