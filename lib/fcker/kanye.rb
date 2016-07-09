@@ -1,6 +1,32 @@
+require 'open-uri'
+
 module Fcker
-  class Kanye
+
+  class Base
+
+    def hi
+      puts 'Hello World!'
+    end
+
+    def lorem
+      uri = URI.parse("http://loripsum.net/api/1/verylong/plaintext")
+      uri.open {|f| p f.first.chomp }
+    end
+  end
+
+  class Kanye < Base
     class << self
+
+      def lorem
+        uri = URI.parse("http://loripsum.net/api/1/verylong/plaintext")
+        uri.open {|f| p f.first.chomp }
+      end
+
+      def paragraph
+        para = Array.new(lorem.split(". "))
+        para.insert(rand(para.length), kanye_quote)
+        puts para.join(". ")
+      end
 
       def kanye_quote
         kanye.sample
